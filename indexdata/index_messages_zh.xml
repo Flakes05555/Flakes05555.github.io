@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="zh_project_title"><![CDATA[性愛博物館]]></data>
+
+
+  <data name="zh_panogroup569_title"><![CDATA[Group 569]]></data>
+
+  <data name="zh_pano57_title"><![CDATA[thumb-2]]></data>
+  <data name="zh_spotpoint564_tooltip"><![CDATA[歡迎]]></data>
+  <data name="zh_spotpoint828_tooltip"><![CDATA[可惡!被發現了]]></data>
+  <data name="zh_pano568_title"><![CDATA[3d-rendering-360-degree-spherical-seamless-vr-panorama-abstract-empty-dark-interior-with-neon-lighting-hdri-environment-map-of-exhibition-gallery-with-glossy-walls-400-261618191]]></data>
+  <data name="zh_spotpoint570_tooltip"><![CDATA[慢走不送]]></data>
+  <data name="zh_spotpoint571_tooltip"><![CDATA[請繼續前進]]></data>
+  <data name="zh_pano618_title"><![CDATA[300888]]></data>
+  <data name="zh_spotpoint620_tooltip"><![CDATA[你反悔了?]]></data>
+  <data name="zh_spotpoint624_tooltip"><![CDATA[還有喔]]></data>
+  <data name="zh_pano627_title"><![CDATA[75421]]></data>
+  <data name="zh_spotpoint629_tooltip"><![CDATA[返回]]></data>
+  <data name="zh_spotpoint630_tooltip"><![CDATA[前面還有]]></data>
+  <data name="zh_pano635_title"><![CDATA[49393]]></data>
+  <data name="zh_spotpoint637_tooltip"><![CDATA[還沒完喔]]></data>
+  <data name="zh_spotpoint638_tooltip"><![CDATA[我就知道你撐不住]]></data>
+  <data name="zh_pano646_title"><![CDATA[74155]]></data>
+  <data name="zh_spotpoint648_tooltip"><![CDATA[都到這裡了還回去?]]></data>
+  <data name="zh_spotpoint649_tooltip"><![CDATA[下一區!]]></data>
+
+  <data name="zh_panogroup823_title"><![CDATA[Group 823]]></data>
+
+  <data name="zh_pano809_title"><![CDATA[istockphoto-1257611288-612x612]]></data>
+  <data name="zh_spotpoint811_tooltip"><![CDATA[留戀那裡嗎?]]></data>
+  <data name="zh_spotpoint812_tooltip"><![CDATA[接下來很刺激喔]]></data>
+  <data name="zh_pano822_title"><![CDATA[gettyimages-1170902399-612x612]]></data>
+  <data name="zh_spotpoint825_tooltip"><![CDATA[快結束了030]]></data>
+  <data name="zh_spotpoint826_tooltip"><![CDATA[原來是恐高]]></data>
+  <data name="zh_pano834_title"><![CDATA[gettyimages-928719012-612x612]]></data>
+  <data name="zh_spotpoint837_tooltip"><![CDATA[逆流而上?]]></data>
+  <data name="zh_spotpoint838_tooltip"><![CDATA[最後的最後]]></data>
+  <data name="zh_pano843_title"><![CDATA[istockphoto-912933004-170667a]]></data>
+  <data name="zh_spotpoint845_tooltip"><![CDATA[好啦!你可以走了]]></data>
+
+
+
+
+
+
+
+
+  <data name="zh_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="zh_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="zh_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="zh_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="zh_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="zh_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="zh_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="zh_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="zh_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="zh_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="zh_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="zh_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="zh_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="zh_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="zh_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="zh_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="zh_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="zh_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="zh_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="zh_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="zh_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="zh_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="zh_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="zh_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="zh_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="zh_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="zh_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="zh_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="zh_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="zh_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
